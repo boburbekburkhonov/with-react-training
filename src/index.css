@@ -1,0 +1,27 @@
+.main {
+  min-height: 100vh;
+}
+
+.extra {
+  min-height: 100vh;
+  background-color: yellow;
+}
+
+.list {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-height: 100vh;
+  cursor: pointer;
+  background-color: rgb(255, 64, 0);
+}
+
+.javascript {
+  min-height: 100vh;
+  background-color: rgb(17, 0, 255);
+}
+
+.active {
+  font-weight: 700;
+  text-decoration: underline;
+  font-size: 17px;
+}
